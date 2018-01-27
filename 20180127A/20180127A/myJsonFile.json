@@ -1,0 +1,14 @@
+{
+    "fruits" : [
+        {
+                "Name" : "Apple",
+                "Picture" : "http://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/updated_main_images/oh3320p31-small-apple-x.jpg?itok=x8R7tzJD",
+                "Description" : "First  fruit"
+        },
+        {
+                "Name" : "Pomegranate",
+                "Picture" : "https://anacortesoilandvinegarbar.com/wp-content/uploads/2015/10/Pomegranate-400x400.jpg",
+                "Description" : "Second  fruit"
+        },
+    ]
+}
